@@ -32,7 +32,7 @@ The plugin offers extensive customization options to tailor the welcome UI to yo
 
 1. Download the latest release of the plugin.
 2. Place the plugin DLL file into the `Plugins` folder of your Unturned server.
-3. Configure the plugin settings in `Rocket.toml`.
+3. Configure the plugin settings in `Forge.WelcomeUI.configuration.xml`.
 4. Restart the server.
 
 ## Contact
@@ -73,7 +73,7 @@ For support, join our [Discord](https://discord.gg/HB9G962FRY).
 
 1. Скачайте последнюю версию плагина.
 2. Поместите файл DLL плагина в папку `Plugins` вашего сервера Unturned.
-3. Настройте параметры плагина в файле `Rocket.toml`.
+3. Настройте параметры плагина в файле `Forge.WelcomeUI.configuration.xml`.
 4. Перезапустите сервер.
 
 ## Контакты
